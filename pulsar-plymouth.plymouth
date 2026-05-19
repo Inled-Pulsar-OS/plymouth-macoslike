@@ -1,6 +1,6 @@
 [Plymouth Theme]
 Name=Pulsar Plymouth Theme
-Description=Boot animation with your own Logo, inspired by the Boot animation of macOS.
+Description=Pulsar Pear OS.
 ModuleName=two-step
 
 [two-step]
@@ -13,7 +13,7 @@ TitleHorizontalAlignment=.5
 TitleVerticalAlignment=.75
 HorizontalAlignment=.5
 VerticalAlignment=.59
-Logo=header-image
+Logo=
 Watermark=
 WatermarkHorizontalAlignment=.5
 WatermarkVerticalAlignment=.45
